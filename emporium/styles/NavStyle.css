@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&family=Roboto+Mono:ital,wght@1,300&family=Sedgwick+Ave&display=swap');
+
+
+li, button{
+    font-family: "Roboto Mono", monospace;
+    font-weight: 400;
+    font-size: 16px;
+    color:#080116;
+    text-decoration: underline;
+    justify-content: center;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 10px 5%;
+    background-color: lightgray;
+
+}
+
+.nav_links li{
+    display:inline-block;
+
+}
